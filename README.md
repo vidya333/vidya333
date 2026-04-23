@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Vidya 👋
 
-<!--
-**vidya333/vidya333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack (mern) developer. previously, I worked as a react.js developer intern at atg and as a code mentor at tansark, and have built an independent mern project from scratch. currently, I follow a simple 3D approach: dream. draw. develop. It’s about imagining ideas, shaping them, and turning them into real products using code and creativity. This mindset guides both my work and how I approach learning. I’m focused on going deeper into backend, api design, and building real-world applications.
 
-Here are some ideas to get you started:
+What I focus on:
+- building real-world applications  
+- understanding how things work under the hood  
+- writing clean, simple, and reliable code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A bit more of what i’ve been working on:
+
+github: https://github.com/vidya333
+linkedin: https://www.linkedin.com/in/vidya333/
+x(twitter): https://x.com/vidya_tandel
+blogs: https://medium.com/@vidyatandel
