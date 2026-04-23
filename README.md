@@ -8,8 +8,8 @@ What I focus on:
 - writing clean, simple, and reliable code  
 
 A bit more of what i’ve been working on:
-
-github: https://github.com/vidya333
-linkedin: https://www.linkedin.com/in/vidya333/
-x(twitter): https://x.com/vidya_tandel
-blogs: https://medium.com/@vidyatandel
+portfolio: https://vidya333.github.io/MyPersonalSite/ 
+github: https://github.com/vidya333 
+linkedin: https://www.linkedin.com/in/vidya333/ 
+x(twitter): https://x.com/vidya_tandel 
+blogs: https://medium.com/@vidyatandel 
